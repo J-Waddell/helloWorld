@@ -1,5 +1,5 @@
 const greeting = {
-    hello: "Hello World"
+    hello: "Hello, World"
 }
 
 const myGreeting = greeting.hello 
